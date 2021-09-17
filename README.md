@@ -1,3 +1,4 @@
+https://hovsep93.github.io/typing-game/
 
 # typing-game
 
